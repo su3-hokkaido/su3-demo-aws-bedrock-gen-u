@@ -1,4 +1,5 @@
 # Welcome to my genU demo app!
+
 This is a demo Generative AI application built with AWS Bedrock managed by @su3-hokkaido
 
 
